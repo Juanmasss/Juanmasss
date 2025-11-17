@@ -1,9 +1,9 @@
 <div align="center">
-  <div style="width:100%; height:50px; overflow:hidden;">
+  <div style="width:100%; height:110px; overflow:hidden;">
     <img 
       src="banner.gif" 
       alt="Banner"
-      style="width:70%; object-fit:cover;" 
+      style="width:100%; object-fit:cover;" 
     />
   </div>
 </div>
