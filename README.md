@@ -1,5 +1,11 @@
 <div align="center">
-  <img height="200" src="Texto del párrafo (1).gif"  />
+  <div style="width:100%; height:50px; overflow:hidden;">
+    <img 
+      src="banner.gif" 
+      alt="Banner"
+      style="width:70%; object-fit:cover;" 
+    />
+  </div>
 </div>
 
 ###
@@ -26,5 +32,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juanmasss/Juanmasss/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Juanmasss/Juanmasss/output/pacman-contribution-graph.svg">
 </picture>
-
-###
